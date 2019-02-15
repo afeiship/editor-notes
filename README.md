@@ -3,7 +3,7 @@
 
 ## list:
 - gutenberg
-- froala
+- froala-wysiwyg-editor
 - ckeditor5
 - draftjs
 - slate
