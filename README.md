@@ -16,5 +16,8 @@
 - [Slate.js - 革命性的富文本编辑框架](https://juejin.im/post/59e6fc9951882578d503952c)
 - [接触 Quill 编辑器几小时的感受](https://1c7.me/2018-8-3-quill-editor/)
 
+## more editors:
+- https://1c7.me/2018-rich-text-wysiwyg-editor-full-list/
+
 ## conclution:
 - https://finxos.atlassian.net/wiki/spaces/PRD/pages/70615241/Editor+Module+Selection
