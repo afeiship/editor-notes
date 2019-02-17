@@ -18,6 +18,7 @@
 
 ## more editors:
 - https://1c7.me/2018-rich-text-wysiwyg-editor-full-list/
+- https://github.com/JefMari/awesome-wysiwyg
 
 ## conclution:
 - https://finxos.atlassian.net/wiki/spaces/PRD/pages/70615241/Editor+Module+Selection
